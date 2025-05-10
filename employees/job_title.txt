@@ -1,0 +1,7 @@
+1,Backend
+2,Frontend
+3,DevOps
+4,Project_manager
+5,Teamlead
+6,Python_Software
+8,Product_manager
